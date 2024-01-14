@@ -2,5 +2,4 @@ jupyterlab
 nbclient
 pandas
 requests
-os
 time
